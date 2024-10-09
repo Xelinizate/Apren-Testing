@@ -1,4 +1,5 @@
 <?php
+
 class NumberChecker  {
 
 
@@ -13,3 +14,4 @@ class NumberChecker  {
 
 }
 ?>
+

@@ -1,0 +1,17 @@
+{
+    "name": "adria/sprint1-tema7",
+    "require": {
+        "phpunit/phpunit": "^11.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Adria\\Sprint1Tema7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adriana CP",
+            "email": "xelinizate86@gmail.com"
+        }
+    ]
+}
